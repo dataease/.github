@@ -1,4 +1,4 @@
-<h2 align="center">人人可用的数据可视化分析工具</h2>
+<h3 align="center">人人可用的数据可视化分析工具</h3>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/github/license/dataease/dataease" alt="License: GPLv3"></a>
