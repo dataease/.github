@@ -1,3 +1,4 @@
+<p align="center"><a href="https://dataease.io"><img src="https://dataease.oss-cn-hangzhou.aliyuncs.com/img/dataease-logo.png" alt="DataEase" width="300" /></a></p>
 <h3 align="center">人人可用的数据可视化分析工具</h3>
 
 <p align="center">
