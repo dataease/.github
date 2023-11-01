@@ -14,9 +14,9 @@ DataEase 是人人可用的开源数据可视化分析工具，帮助用户快�
 ## 相关链接
 
 - [官网](https://dataease.io)
-- [模板市场](https://dataease.io/templates/)
 - [论坛](https://bbs.fit2cloud.com/c/de/6)
 - [博客](https://blog.fit2cloud.com/categories/dataease)
+- [模板市场](https://dataease.io/templates/)
 
 ## 飞致云旗下其他开源组织
 
