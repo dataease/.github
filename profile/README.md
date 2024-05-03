@@ -9,23 +9,29 @@
 
 <hr/>
 
-DataEase 是人人可用的开源数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化。DataEase 支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。
+DataEase 是人人可用的开源数据可视化分析工具( BI 工具 )，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化。DataEase 支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。
 
-<p align="center">
-  <img src="https://github.com/dataease/.github/assets/41712985/5cd39819-2f97-4325-8164-52cc82795dda" alt="DataEase 概览图" border="0" />
-</p>
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tr>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/dataease/dataease/assets/41712985/8dbed4e1-39f0-4392-aa8c-d1fd83ba42eb" alt="DataEase Demo1"   /></td>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/dataease/dataease/assets/41712985/ed886807-d5a3-4dd9-9f36-ce6ed2eaad9d" alt="DataEase Demo2"   /></td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/dataease/dataease/assets/41712985/ffa79361-a7b3-4486-b14a-f3fd3a28f01a" alt="DataEase Demo3"   /></td>
+    <td style="padding: 5px;background-color:#fff;"><img src= "https://github.com/dataease/dataease/assets/41712985/bb28f4e4-636e-4ab0-85c5-1dfbd7a5397e" alt="DataEase Demo4"   /></td>
+  </tr>
+</table>
 
 ## 相关链接
 
-- [官网](https://dataease.io)
-- [论坛](https://bbs.fit2cloud.com/c/de/6)
-- [博客](https://blog.fit2cloud.com/categories/dataease)
+- [产品官网](https://dataease.io)
+- [交流论坛](https://bbs.fit2cloud.com/c/de/6)
+- [技术博客](https://blog.fit2cloud.com/categories/dataease)
 - [模板市场](https://templates.dataease.cn/)
 
 ## 飞致云旗下其他开源组织
 
 - [JumpServer](https://github.com/jumpserver) - 广受欢迎的开源堡垒机
-- [MeterSphere](https://github.com/metersphere/) - 一站式开源自动化测试平台
 - [1Panel](https://github.com/1panel-dev/) - 现代化、开源的 Linux 服务器运维管理面板
 - [Halo](https://github.com/halo-dev/) - 强大易用的开源建站工具
-
+- [MeterSphere](https://github.com/metersphere/) - 开源自动化测试平台
