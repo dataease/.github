@@ -28,10 +28,10 @@ DataEase 是开源的数据可视化分析工具，帮助用户快速分析数�
 - [交流论坛](https://bbs.fit2cloud.com/c/de/6)
 - [模板市场](https://templates.dataease.cn/)
 
-## 飞致云旗下其他开源组织
+## 飞致云旗下的其他明星开源项目
 
 - [MaxKB](https://github.com/1Panel-dev/MaxKB) - 强大易用的企业级智能体平台
-- [JumpServer](https://github.com/jumpserver) - 广受欢迎的开源堡垒机
+- [JumpServer](https://github.com/jumpserver/jumpserver) - 广受欢迎的开源堡垒机
 - [1Panel](https://github.com/1panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板
-- [Halo](https://github.com/halo-dev/) - 强大易用的开源建站工具
-- [MeterSphere](https://github.com/metersphere/) - 新一代的开源持续测试工具
+- [Halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具
+- [MeterSphere](https://github.com/metersphere/metersphere) - 新一代的开源持续测试工具
