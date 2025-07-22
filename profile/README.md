@@ -1,4 +1,4 @@
-<p align="center"><a href="https://dataease.io"><img src="https://dataease.oss-cn-hangzhou.aliyuncs.com/img/dataease-logo.png" alt="DataEase" width="300" /></a></p>
+<p align="center"><a href="https://dataease.cn/"><img src="https://dataease.oss-cn-hangzhou.aliyuncs.com/img/dataease-logo.png" alt="DataEase" width="300" /></a></p>
 <h3 align="center">人人可用的开源 BI 工具</h3>
 
 <p align="center">
@@ -24,14 +24,14 @@ DataEase 是开源的数据可视化分析工具，帮助用户快速分析数�
 
 ## 相关链接
 
-- [产品官网](https://dataease.io)
+- [产品官网](https://dataease.cn)
 - [交流论坛](https://bbs.fit2cloud.com/c/de/6)
-- [技术博客](https://blog.fit2cloud.com/categories/dataease)
 - [模板市场](https://templates.dataease.cn/)
 
 ## 飞致云旗下其他开源组织
 
+- [MaxKB](https://github.com/1Panel-dev/MaxKB) - 强大易用的企业级智能体平台
 - [JumpServer](https://github.com/jumpserver) - 广受欢迎的开源堡垒机
-- [1Panel](https://github.com/1panel-dev/) - 现代化、开源的 Linux 服务器运维管理面板
+- [1Panel](https://github.com/1panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板
 - [Halo](https://github.com/halo-dev/) - 强大易用的开源建站工具
 - [MeterSphere](https://github.com/metersphere/) - 新一代的开源持续测试工具
